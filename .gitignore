@@ -4,6 +4,7 @@ build-cli
 
 ## Temporary files
 *~
+*.swp
 
 ## arduino.backup
 arduino.backup
