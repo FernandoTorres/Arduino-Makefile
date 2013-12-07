@@ -54,8 +54,10 @@
 # On Linux, you might prefer:
 #
 #   ARDUINO_DIR   = /usr/share/arduino
+    ARDUINO_DIR   = ../../arduino.files
 #   ARDMK_DIR     = /usr
 #   AVR_TOOLS_DIR = /usr
+    AVR_TOOLS_DIR = /usr/
 #
 # You can either set these up in the Makefile, or put them in your
 # environment e.g. in your .bashrc
