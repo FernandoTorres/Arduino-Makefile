@@ -1,6 +1,6 @@
 BOARD_TAG    = mega_pic32
 MONITOR_PORT = /dev/cu.usb*
-ARDUINO_LIBS =
+ARDUINO_LIBS = ../../arduino.files/libraries
 
-include ../../arduino-mk/chipKIT.mk
+include ../../arduino.mk/chipKIT.mk
 
